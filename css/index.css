@@ -106,7 +106,6 @@ section {
 }
 body {
   line-height: 1;
-  background: red;
 }
 ol,
 ul {
@@ -135,27 +134,3 @@ html,
 body {
   height: 100%;
 }
-
-.navBar {
-  width: 1000px;
-  margin: auto;
-}
-
-h3 {
-  font-size: 100px;
-  display: inline-flex;
-  text-align: center;
-  flex-direction: column;
-}
-
-
-.container {
-  font-family: 'Bangers', cursive;
-  width: 1000px;
-  text-align: center;
-  margin: auto;
-  display: flex;
-  flex: 1;
-  justify-content: space-between;
-}
-
